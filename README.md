@@ -39,5 +39,5 @@ pixi install
 
 Pour démarrer JupyterLab avec l’environnement **Pixi** :
 ```bash
-pixi run jupyterlab
+pixi run jupyter lab
 ```
