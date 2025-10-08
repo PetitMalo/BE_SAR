@@ -1,0 +1,4 @@
+image_SWOT_BE1_raw.npy
+# pixi environments
+.pixi
+*.egg-info
