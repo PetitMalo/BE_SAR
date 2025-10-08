@@ -1,0 +1,15 @@
+[workspace]
+authors = ["dacher <mael.dacher@student.isae-supaero.fr>"]
+channels = ["conda-forge"]
+name = "BE1_2025"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+jupyterlab = ">=4.4.9,<5"
+numpy = ">=2.3.3,<3"
+matplotlib = ">=3.10.6,<4"
+pylablib = ">=1.4.4,<2"
+xarray = ">=2025.10.1,<2026"
